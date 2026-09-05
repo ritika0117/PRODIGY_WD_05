@@ -38,17 +38,26 @@ The application allows users to search for current weather information by enteri
 
 ## 📸 Screenshots
 
-### 💻 Desktop View
+### 💻 Responsive Design Preview
 
-![Weather App Desktop](screenshots/desktop.png)
-
-### 📱 Mobile View
-
-![Weather App Mobile](screenshots/mobile.png)
-
-### 📲 Tablet View
-
-![Weather App Tablet](screenshots/tablet.png)
+<table>
+  <tr>
+    <th>Desktop</th>
+    <th>Tablet</th>
+    <th>Mobile</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="screenshots/desktop.png" width="100%" height="250">
+    </td>
+    <td>
+      <img src="screenshots/tablet.png" width="100%" height="250">
+    </td>
+    <td>
+      <img src="screenshots/mobile.png" width="100%" height="250">
+    </td>
+  </tr>
+</table>
 
 ---
 
